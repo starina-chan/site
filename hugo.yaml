@@ -1,0 +1,4 @@
+baseURL: https://starina-chan.github.io/site/
+languageCode: en-us
+title: My New Hugo Site
+theme: ["PaperMod"]
